@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvtringify",
+        "uuid": 2040082,
+        "checksum": "dh30p"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
